@@ -1,0 +1,11 @@
+6a8a1872ff6b083b0078fd2a581eed57 *DESCRIPTION
+3e3f3e0a197b27d54d349e1e4bcfb469 *NAMESPACE
+3ee255b292eeaa15431dd1e7a235e63c *R/mstclustering.R
+bb53c0bb1e5fadb7200289dbd9857639 *man/find.set.Rd
+08a6241d01375d2f2ddde9cdf8d6d06f *man/gen.child.list.mst.Rd
+b3e2575f99bbe6c1e9270a3f5ce7b187 *man/gen.edge.list.Rd
+8d3ea2547c7507dd01b6cb32a44c3340 *man/is.same.set.Rd
+4e6f89cbd0ea8c3f210d61adfbb769c0 *man/kruskal.Rd
+c0c93611d77e160f590eb14587f176a8 *man/mst.cluster.Rd
+b3763c1d80c253ab0bb8f27d1d079869 *man/reset.ufds.Rd
+6c82ad2556b950e89308bc99be6affe5 *man/union.set.Rd
